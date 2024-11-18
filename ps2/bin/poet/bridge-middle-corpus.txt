@@ -1,0 +1,6 @@
+Hello world! Let's create some poetry with bridge words.
+The quick brown fox jumps over the lazy dog.
+Poetry is an art form, and it requires creativity.
+How do we build bridges between words in the middle of a sentence?
+The poet carefully selected words to form an elegant line.
+Make sure to test for punctuation, special characters, and spaces!
